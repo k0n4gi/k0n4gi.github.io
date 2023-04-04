@@ -7,8 +7,7 @@ title: PortFolio
 description: PortFolio
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-url : "https://k0n4gi.github.io"
-baseurl: ""
+baseurl: /k0n4gi.github.io/
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
