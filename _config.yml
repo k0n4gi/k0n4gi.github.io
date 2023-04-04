@@ -126,5 +126,3 @@ exclude:
     "node_modules",
     "package.json",
   ]
-
-github: [metadata]
