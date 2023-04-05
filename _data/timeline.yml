@@ -17,45 +17,28 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: 윈스
+  title-url: 
+  date: Jul 2022 - Dec 2022
+  subtitle: 분석팀 인턴
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Snort
+    - tag: Wireshark
+    - tag: dnSpy
+    - tag: IDA
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: 이글루시큐리티
+  title-url: 
+  date: Jul 2021 - Aug 2021
+  subtitle: 학교연계 현장실습
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
+    - tag: Spring Framework
     - tag: Javascript
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: 영남이공대학교
+  title-url: 
+  date: 2019 - 2023
+  subtitle: 사이버보안학과
   timeline-side: left

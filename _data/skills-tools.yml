@@ -5,32 +5,26 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
-  weight: 5
-
-- name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
+- name: WireShark
   weight: 2
 
-- name: npm
+- name: IDA
+  weight: 1
+
+- name: de4dot
   weight: 2
 
-- name: gulp
-  weight: 4
+- name: Ghidra
+  weight: 1
 
-- name: VS Code
-  weight: 3
+- name: Insomina
+  weight: 1
 
-- name: Postman
-  weight: 4
+- name: Kali Linux
+  weight: 2
+
+- name: dnSpy
+  weight: 2
+
+- name: Snort
+  weight: 2
